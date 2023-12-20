@@ -3,14 +3,13 @@
 
 ### Overview
 
-This C++ program implements a Number Guessing Game where the player and AI take turns guessing a number chosen by the other. The game provides feedback to guide the player and AI towards the correct number within a specified range.
+This Python Tkinter application visualizes path searching algorithms on a weighted graph. The user can specify the start and goal nodes, choose a searching algorithm (BFS, DFS, Hill Climbing, Beam Search), and observe the traversal process on the graph.
 
 ### Usage
 
-1. Run the program (main.cpp).
-2. Think of a number within the specified range.
-3. Enter your number when prompted.
-4. Take turns guessing with the AI.
-5. Receive feedback on each guess.
-6. The game ends when either the player or the AI correctly guesses the opponent's number.
-7. Choose to play again or exit.
+1. Run the script (path_searching_visualization.py).
+2. Enter the start and goal nodes in the provided Entry widgets.
+3. Choose a searching algorithm (BFS, DFS, Hill Climbing, Beam Search).
+4. Adjust the simulation speed using the Scale widget.
+5. Click the "Pause" button to toggle between pause and play states during the visualization.
+6. Observe the changes in the graph as the algorithm traverses through the nodes.
