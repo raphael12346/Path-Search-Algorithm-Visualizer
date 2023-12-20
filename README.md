@@ -7,7 +7,7 @@ This Python Tkinter application visualizes path searching algorithms on a weight
 
 ### Usage
 
-1. Run the script (path_searching_visualization.py).
+1. Run the script (searchVisualizer.py).
 2. Enter the start and goal nodes in the provided Entry widgets.
 3. Choose a searching algorithm (BFS, DFS, Hill Climbing, Beam Search).
 4. Adjust the simulation speed using the Scale widget.
